@@ -38,9 +38,12 @@ export function FooterContainer() {
                     <Footer.Link href="#"><Icon className="fab fa-youtube" />Youtube</Footer.Link>
                     <Footer.Link href="#"><Icon className="fab fa-twitter" />Twitter</Footer.Link>
                 </Footer.Column>
-               
             </Footer.Row>
             </Footer.Wrapper>
+         
+            <div className="copyright">
+                <p><Icon className="far fa-copyright" />Copyright Expery 2021, All rights reserved</p>  
+            </div> 
         </Footer>
     )
 }

@@ -1,5 +1,5 @@
 p {
-    font-size: 17px;
+    font-size: 15px;
     color: #fff;
     line-height: 25px;
     margin-bottom: 40px;
@@ -8,10 +8,15 @@ p {
 
 dd {
     margin-left: -3px;
-    font-size: 18px;
+    font-size: 15px;
     color: #fff;  
 }
 
 dl dd {
-    margin-bottom: 15px;
+    margin-bottom: 17px;
+}
+
+.copyright{
+    display: flex;
+    justify-content: center;
 }

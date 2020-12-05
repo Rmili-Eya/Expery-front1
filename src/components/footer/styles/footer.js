@@ -38,8 +38,8 @@ export const Row = styled.div`
 export const Link = styled.a`
   color: #fff;
   margin-top: 15px;
-  margin-bottom: 20px;
-  font-size: 18px;
+  margin-bottom: 3px;
+  font-size: 15px;
   text-decoration: none;
 
   &:hover {
